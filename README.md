@@ -1,6 +1,7 @@
 HOW TO USE: First, make sure that all the files are in the same folder. Then, in a bash terminal while the project is open, you may type "gcc functions.h jacobsVector.c projectFour.c snowflake.c svgStartEnd.c -Wall" without the quotation marks to compile the program.
 As running the program will essentially output HTML code, you may again use a bash terminal to save the output to an HTML file by typing "./projectFour.exe > svg.html" without the quotation marks (replace the executable file name with yours, and you may use whatever name you prefer for the html file).
-The html file is there for a preview of the code's results, and the executable file is available for you to be able to test out the code's function without having to compile the program.
+
+***The html file is there for a preview of the code's results, and the executable file is available for you to be able to test out the code's function without having to compile the program.***
 
 Hello,
 
